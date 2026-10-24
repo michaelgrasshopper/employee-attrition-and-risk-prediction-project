@@ -1,4 +1,4 @@
-# employee-attrition-and-risk-prediction-project
+# Employee-attrition-and-risk-prediction-project
 
 # The 30-second version
 
